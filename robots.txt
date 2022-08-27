@@ -1,1 +1,1 @@
-Sitemap: https://mrpsharp.github.io/blog.petersharp.education/sitemap.xml
+Sitemap: https://blog.petersharp.education/sitemap.xml
