@@ -9,3 +9,10 @@
 
 // If you want to turn off dark background for syntax highlighting, comment or delete the below line.
 @import "minima/fastpages-dracula-highlight"; 
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: $header-font-family
+}
+a.site-title {
+    font-family: $header-font-family;
+}
