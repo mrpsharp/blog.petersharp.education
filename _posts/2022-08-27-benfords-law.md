@@ -237,10 +237,10 @@ $$</p>
 
 
 
-<div id="191fc681-5f2a-4413-8b1e-5d1966e649e8"></div>
+<div id="4afeb659-9066-4cf2-81c3-457b85a5f90d"></div>
 <div class="output_subarea output_javascript ">
 <script type="text/javascript">
-var element = $('#191fc681-5f2a-4413-8b1e-5d1966e649e8');
+var element = $('#4afeb659-9066-4cf2-81c3-457b85a5f90d');
 /* Put everything inside the global mpl namespace */
 /* global mpl */
 window.mpl = {};
@@ -1288,10 +1288,10 @@ if (IPython.notebook.kernel !== null) {
 
 
 
-<div id="10ddd60c-1c5b-4aa0-9a1f-e665213dd06c"></div>
+<div id="97bed211-812d-403b-a3db-b0ca15b2bdbf"></div>
 <div class="output_subarea output_javascript ">
 <script type="text/javascript">
-var element = $('#10ddd60c-1c5b-4aa0-9a1f-e665213dd06c');
+var element = $('#97bed211-812d-403b-a3db-b0ca15b2bdbf');
 /* Put everything inside the global mpl namespace */
 /* global mpl */
 window.mpl = {};
@@ -2304,10 +2304,10 @@ if (IPython.notebook.kernel !== null) {
 
 
 
-<div id="9eef1cb0-6ce2-41f2-87db-4bfa4c5e0bd6"></div>
+<div id="3e42a8b3-aa62-4330-bcc8-f0449ba14a8b"></div>
 <div class="output_subarea output_javascript ">
 <script type="text/javascript">
-var element = $('#9eef1cb0-6ce2-41f2-87db-4bfa4c5e0bd6');
+var element = $('#3e42a8b3-aa62-4330-bcc8-f0449ba14a8b');
 /* Put everything inside the global mpl namespace */
 /* global mpl */
 window.mpl = {};
@@ -3361,10 +3361,10 @@ if (IPython.notebook.kernel !== null) {
 
 
 
-<div id="af994721-266f-4534-af29-a5409aab3539"></div>
+<div id="7980d761-bfdb-4da7-853d-46cdd48a70d1"></div>
 <div class="output_subarea output_javascript ">
 <script type="text/javascript">
-var element = $('#af994721-266f-4534-af29-a5409aab3539');
+var element = $('#7980d761-bfdb-4da7-853d-46cdd48a70d1');
 /* Put everything inside the global mpl namespace */
 /* global mpl */
 window.mpl = {};
@@ -4440,10 +4440,10 @@ if (IPython.notebook.kernel !== null) {
 
 
 
-<div id="02ebc173-063e-43e8-b6c9-ca3b679cef82"></div>
+<div id="6552911d-fd67-4661-bb57-0601084e324b"></div>
 <div class="output_subarea output_javascript ">
 <script type="text/javascript">
-var element = $('#02ebc173-063e-43e8-b6c9-ca3b679cef82');
+var element = $('#6552911d-fd67-4661-bb57-0601084e324b');
 /* Put everything inside the global mpl namespace */
 /* global mpl */
 window.mpl = {};
