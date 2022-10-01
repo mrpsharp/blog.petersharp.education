@@ -6,3 +6,4 @@ dependencies:
   - fastprogress=1.0.3=py_0
   - matplotlib
   - numpy
+  - scipy
